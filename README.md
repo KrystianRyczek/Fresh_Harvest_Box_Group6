@@ -40,9 +40,12 @@ This project was developed by an exceptional team of GoIT students, including
 🚀 Setup Instructions
 Clone the repository:
 git clone https://github.com/KrystianRyczek/Fresh_Harvest_Box_Group6
+
 ** Navigate to the project directory:**
 cd Fresh-Harvest-Box
+
 ** Install dependencies:**
 npm install
+
 ** Run the project locally:**
 npm start
