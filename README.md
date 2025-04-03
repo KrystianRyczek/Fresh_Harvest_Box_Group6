@@ -53,7 +53,7 @@ This project was developed by an exceptional team of GoIT students, including
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anitabaron/Fresh-Harvest-Box.git
+   git clone https://github.com/KrystianRyczek/Fresh_Harvest_Box_Group6
 2. ** Navigate to the project directory:**
    ```bash
    cd Fresh-Harvest-Box
